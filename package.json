@@ -3,19 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
-    "test": "mocha --timeout 5000"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Flatiron School",
-  "license": "CC-BY-NC-SA-4.0",
+  "author": "maxwellbenton <maxwellbenton@gmail.com>",
+  "license": "ISC",
   "dependencies": {
-    "json-server": "^0.16.3",
-    "chai": "^4.2.0",
-    "jsdom": "^9.0",
-    "mocha": "5.2.0",
-    "mocha-jsdom": "~1.1.0"
+    "json-server": "^0.16.3"
   }
 }
